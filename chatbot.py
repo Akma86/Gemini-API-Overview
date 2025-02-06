@@ -5,7 +5,7 @@ from PIL import Image
 import io
 
 # Configure Gemini API with your API key
-api_key = "AIzaSyACCREq1ZDeaPpTF_Rk9pyeMSgD5zhGCb0"  # Replace with your API key
+api_key = "Your_Api_Key"  # Replace with your API key
 genai.configure(api_key=api_key)
 
 # Set up model configuration
