@@ -1,4 +1,4 @@
-# 🚗 Fine-Grained Car Classification using Gemini 1.5 Flash
+# 🚗 Fine-Grained Car Classification using Gemini 1.5 Flash and Gemini 2.0
 ## 📜 Project Overview
 This project demonstrates how to utilize the Gemini 1.5 Flash API for solving a fine-grained car classification problem. The focus is on showcasing the capabilities of Gemini API in handling multimodal tasks, with an emphasis on speed, scalability, and versatility.
 
